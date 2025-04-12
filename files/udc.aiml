@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+  <category>
+    <pattern>*HOLA*</pattern>
+    <template>
+      ¡Hola! Bienvenido al servicio de atención al cliente. ¿Cómo puedo ayudarte?
+    </template>
+  </category>
+
+  <category>
+    <pattern>*AYUDA*</pattern>
+    <template>
+      Con gusto te ayudo. ¿Tienes alguna duda sobre tu cuenta, pedidos, o algún otro servicio?
+    </template>
+  </category>
+
+  <category>
+    <pattern>*INFORMACIÓN*</pattern>
+    <template>
+      Claro, ¿qué tipo de información necesitas? Puedo ayudarte con productos, pedidos, envíos o atención personalizada.
+    </template>
+  </category>
+
+  <category>
+    <pattern>*GRACIAS*</pattern>
+    <template>
+      ¡Con gusto! Estamos aquí para apoyarte. ¿Hay algo más en lo que pueda ayudarte?
+    </template>
+  </category>
+
+  <category>
+    <pattern>*ADIÓS*</pattern>
+    <template>
+      Gracias por contactarnos. ¡Que tengas un excelente día!
+    </template>
+  </category>
+
+  <category>
+    <pattern>*PROBLEMA*</pattern>
+    <template>
+      Lamento que tengas un inconveniente. ¿Podrías darme más detalles para ayudarte lo antes posible?
+    </template>
+  </category>
+
+</aiml>
